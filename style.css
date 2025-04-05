@@ -735,7 +735,7 @@ a {
     padding-bottom: 2rem;
   }
 }
-@media(max-width: 430px){
+@media(max-width: 436px){
   .project-skills-container{
     width: 100%;
     gap: 2px;
