@@ -632,6 +632,11 @@ a {
   .skill-container-right {
     width: 100%;
   }
+   .faded-text {
+    font-size: 4rem;
+    bottom: -6.3%;
+    left: 4%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -658,8 +663,9 @@ a {
   }
   
   .faded-text {
-    font-size: 5rem;
-    bottom: -10%;
+    font-size: 3rem;
+    bottom: -7%;
+    left: 10%;
   }
   
   .project-content {
@@ -684,7 +690,9 @@ a {
     font-size: 28px;
   }
   .faded-text{
-    visibility: hidden;
+    font-size: 3rem;
+    bottom: -7%;
+    left: 10%;
   }
   .hero-section-sub-heading {
     font-size: 32px;
@@ -738,7 +746,7 @@ a {
   width: 90%;
 }
  .faded-text{
-    visibility: hidden;
+    font-size: 3rem;
   }
 .project-content{
   width: 90%;
@@ -762,6 +770,7 @@ a {
   
   .faded-text {
     font-size: 3rem;
+
   }
 }
 
