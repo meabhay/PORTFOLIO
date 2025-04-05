@@ -731,6 +731,9 @@ a {
   .project-number-right {
     right: -20px;
   }
+  .icon-wrapper{
+    padding-bottom: 2rem;
+  }
 }
 
 @media (max-width: 400px) {
