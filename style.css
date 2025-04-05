@@ -670,6 +670,7 @@ a {
   .project-heading {
     font-size: 40px;
   }
+ 
 }
 
 @media (max-width: 576px) {
@@ -682,7 +683,9 @@ a {
   .hero-section-heading {
     font-size: 28px;
   }
-  
+  .faded-text{
+    visibility: hidden;
+  }
   .hero-section-sub-heading {
     font-size: 32px;
     line-height: 1.2;
@@ -711,7 +714,12 @@ a {
   .project-number-left {
     left: -20px;
   }
-  
+  .project-card{
+  width: 90%;
+}
+.project-content{
+  width: 90%;
+}
   .project-number-right {
     right: -20px;
   }
@@ -726,7 +734,18 @@ a {
   .logo {
     width: 50px;
   }
-  
+.project-card{
+  width: 90%;
+}
+ .faded-text{
+    visibility: hidden;
+  }
+.project-content{
+  width: 90%;
+}
+.project-skills-container{
+  visibility: hidden;
+}
   .logo-text {
     font-size: 18px;
     margin-left: -0.8rem;
