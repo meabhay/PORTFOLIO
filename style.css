@@ -732,7 +732,7 @@ a {
     right: -20px;
   }
   .icon-wrapper{
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
   }
 }
 @media(max-width: 436px){
