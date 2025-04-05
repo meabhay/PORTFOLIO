@@ -732,7 +732,7 @@ a {
     right: -20px;
   }
   .icon-wrapper{
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
   }
 }
 @media(max-width: 436px){
@@ -782,6 +782,11 @@ a {
   .project-1{
     gap: 0;
     bottom: 4rem;
+  }
+  .icon-wrapper{
+    position: relative;
+    background-color: #fff;
+    bottom: -4rem;
   }
 }
 @media (max-width: 400px) {
