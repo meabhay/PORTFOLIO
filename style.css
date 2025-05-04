@@ -304,6 +304,15 @@ a {
 #project4:hover {
   transform: translateY(-15px) rotateZ(-3deg);
 }
+#project5:hover {
+  transform: translateY(-15px) rotateZ(3deg);
+}
+#project6:hover {
+  transform: translateY(-15px) rotateZ(-3deg);
+}
+#project7:hover {
+  transform: translateY(-15px) rotateZ(3deg);
+}
 .project-card::after {
   content: "";
   position: absolute;
