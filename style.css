@@ -125,6 +125,7 @@ a {
   text-align: center;
   position: relative;
   z-index: 1;
+  cursor: pointer;
 }
 
 .btn-pink::before {
@@ -407,20 +408,33 @@ a {
   color: var(--bgOrange);
 }
 #project1 {
-  background-image: url(./images/tint_orange.jpeg);
+  background-image: url(./images/weatherApp.png);
 }
 
 #project2 {
   margin-left: 120px;
-  background-image: url(./images/copyright.jpeg);
+  background-image: url(./images/passwordGen.png);
 }
 #project3 {
-  background-image: url(./images/interior.jpeg);
+  background-image: url(./images/twoGood.png);
 }
 #project4 {
   margin-left: 120px;
-  background-image: url(./images/builder.jpeg);
+  background-image: url(./images/modal.png);
 }
+#project5 {
+  margin-left: 120px;
+  background-image: url(./images/spotifyClone.png);
+}
+#project6 {
+  margin-left: 120px;
+  background-image: url(./images/razorPay.png);
+}
+#project7 {
+  margin-left: 120px;
+  background-image: url(./images/discord.png);
+}
+
 .skills-container {
   position: relative;
   display: flex;
